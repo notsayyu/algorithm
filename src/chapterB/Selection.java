@@ -1,6 +1,6 @@
-package chapter2;
+package chapterB;
 
-import static chapter2.Example.*;
+import static chapterB.Example.*;
 
 /**
  * 选择排序
